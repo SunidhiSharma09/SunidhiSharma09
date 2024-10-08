@@ -1,4 +1,6 @@
- Hi, Welcome to my Github Profile. I'm Sunidhi Sharma.
+ Hi, Welcome to my Github Profile.
+ 
+ I'm Sunidhi Sharma.
  
  An enthusiastics and detailed-oriented Data Analyst, passionate about solving problems and uncovering opportunities through data.
  
@@ -10,3 +12,7 @@
  - Statistics
  - Machine Learning
  - NLP
+
+Feel free to connect, I am always open to discuss new projects, creative ideas and opportunities to be part of your vision.
+- email: sunidhisharma150@gmail.com
+- linkedin: https://www.linkedin.com/in/sunidhisharma18/
