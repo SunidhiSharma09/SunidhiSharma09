@@ -14,5 +14,6 @@
  - NLP
 
 Feel free to connect, I am always open to discuss new projects, creative ideas and opportunities to be part of your vision.
-- email: sunidhisharma150@gmail.com
-- linkedin: https://www.linkedin.com/in/sunidhisharma18/
+- Email: sunidhisharma150@gmail.com
+- Linkedin: https://www.linkedin.com/in/sunidhisharma18/
+- Portfolio: https://sunidhisharma09.github.io/My-Portfolio/
